@@ -9,3 +9,8 @@
 
 - procefual representation of data - message passing
 - box-and-pointer notation
+- The key to organizing programs so as to more clearly reflect the signal-flow structure is to concentrate on the "signals" that flow from one stage in the process to the next
+- Modular construction is a powerful strategy for controlling complexity in engineering design.
+- The key idea was to erect an abstraction barrier that isolates the way rational numbers are used from their underlying representation in terms of list structure
+- type tags and data-directed style
+- The key idea is to link the code that specifies the data operations to the several representations by means of generic interface procedures.
